@@ -1,7 +1,7 @@
 <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl p-6">
     <!-- Header -->
     <div class="text-center mb-6">
-        <h1 class="text-3xl font-bold text-gray-800">SAMPAD</h1>
+        <h1 class="text-3xl font-bold text-gray-800">Uncle Project</h1>
         <p class="text-gray-600">INSERT</p>
     </div>
 

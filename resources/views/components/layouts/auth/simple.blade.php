@@ -2,7 +2,7 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}" class="dark">
     <head>
         @php
-            $title = 'Sampad Login';
+            $title = 'Uncle Project Login';
         @endphp
         @include('partials.head',compact('title'))
     </head>
